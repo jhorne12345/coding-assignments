@@ -17,9 +17,9 @@ Assignments
 > - [Java and Scala Candidates - API Coding Assignment using Play Framework 2.5](https://github.com/lifeway/coding-assignments/blob/master/playframework/starwars-api.md)
 
 
-----------
 
-
+<br />
+<br />
 <br />
 <br />
  <div class="footer">
