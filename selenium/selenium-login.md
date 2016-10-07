@@ -10,6 +10,9 @@ Your example must do the following:
 * Utilize Page Object Design Pattern
 * You must use the tools - Gradle, TestNG, Selenium 3+ 
 
+Testing Scope: 
+* Functional/E2E Tests
+
 What we are looking for:
 * We are interested in the readability and modularity of your implementation. Please imagine that this small example is going to turn into a larger framework and structure your code accordingly.
 
