@@ -28,6 +28,6 @@ Your API must do the following:
 * You must use only the tools provided by Play 2.5 - do not import any other libraries.
 
 What we are looking for:
-* We are interested in the readability, modularity, and testability of your implementation. Please imagine that this small example is going to turn into a larger application with 30+ endpoints and struture your code accordingly.
+* We are interested in the readability, modularity, and testability of your implementation. Please imagine that this small example is going to turn into a larger application with 30+ endpoints and structure your code accordingly.
 
 Do not commit your example onto a public repository. Please send us a zip file of your code. We will compile it locally and run it.
